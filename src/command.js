@@ -720,15 +720,7 @@ admin13() {
 •[List admin] = Melihat Daftar Admin
 •[Tag all] = Mengetag Semua Member
 •[Creator] = Owner Pembuat Bot
-•[Gift] = Sent Sticker
-•[Suara bot1/bot2] = Pesan Suara Bot
-
-           🎶 Keyword Media 🎶
-
-•[Musik funny/broken/siul/spongebob/simfoni/titanic] = Bot Akan Send Musik Yang Dipilih
-
-•[List lagu1] = Untuk Melihat Daftar Lagu
-•[List lagu2] = Untuk Melihat Daftar Lagu`);
+•[Gift] = Sent Sticker`);
 
      {             this._sendMessage(this.messages, `NB : Ketik "Chat1" Untuk Keyword Selanjutnya!`);
      }
@@ -758,15 +750,7 @@ admin13() {
 •[List admin] = Melihat Daftar Admin
 •[Tag all] = Mengetag Semua Member
 •[Creator] = Owner Pembuat Bot
-•[Gift] = Sent Sticker
-•[Suara bot1/bot2] = Pesan Suara Bot
-
-           🎶 Keyword Media 🎶
-
-•[Musik funny/broken/siul/spongebob/simfoni/titanic] = Bot Akan Send Musik Yang Dipilih
-
-•[List lagu1] = Untuk Melihat Daftar Lagu
-•[List lagu2] = Untuk Melihat Daftar Lagu`);
+•[Gift] = Sent Sticker`);
 
       {              this._sendMessage(this.messages, `NB : Ketik "Chat1" Untuk Keyword Selanjutnya!`);
      }
@@ -796,15 +780,7 @@ admin13() {
 •[List admin] = Melihat Daftar Admin
 •[Tag all] = Mengetag Semua Member
 •[Creator] = Owner Pembuat Bot
-•[Gift] = Sent Sticker
-•[Suara bot1/bot2] = Pesan Suara Bot
-
-           🎶 Keyword Media 🎶
-
-•[Musik funny/broken/siul/spongebob/simfoni/titanic] = Bot Akan Send Musik Yang Dipilih
-
-•[List lagu1] = Untuk Melihat Daftar Lagu
-•[List lagu2] = Untuk Melihat Daftar Lagu`);
+•[Gift] = Sent Sticker`);
 
                     this._sendMessage(this.messages, `NB : Ketik "Chat1" Untuk Keyword Selanjutnya!`);
      }
@@ -834,15 +810,7 @@ admin13() {
 •[List admin] = Melihat Daftar Admin
 •[Tag all] = Mengetag Semua Member
 •[Creator] = Owner Pembuat Bot
-•[Gift] = Sent Sticker
-•[Suara bot1/bot2] = Pesan Suara Bot
-
-           🎶 Keyword Media 🎶
-
-•[Musik funny/broken/siul/spongebob/simfoni/titanic] = Bot Akan Send Musik Yang Dipilih
-
-•[List lagu1] = Untuk Melihat Daftar Lagu
-•[List lagu2] = Untuk Melihat Daftar Lagu`);
+•[Gift] = Sent Sticker`);
 }
                  this._sendMessage(this.messages, `NB : Ketik "Chat1" Untuk Keyword Selanjutnya!`);
      }
