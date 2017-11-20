@@ -20,9 +20,9 @@ Cara Menjalankan Bot Kembali :
 Command "Help" :
 ------
            🎶 Keyword Khusus Admin 🎶
--`[Kick On/Off] = On/Off Mode Kick`
--`[Kickall] = Mengekick Semua Member`
--`[Info kick] = Cara Menggunakan Fitur Kickall`
+           -`[Kick On/Off] = On/Off Mode Kick`
+           -`[Kickall] = Mengekick Semua Member`
+           -`[Info kick] = Cara Menggunakan Fitur Kickall`
 -`[Cancel On/Off] = On/Off Mode Cancel`
 -`[Cancelall] = Membatalkan Semua Invite'an`
 -`[Qrp On/Off]= On/Off Link Group`
