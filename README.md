@@ -52,5 +52,5 @@ Credit By@ Nadya Sutjiadi.
 
 Thx To :
 ------
-- `Alfatdirk And Line-TCR`
+- `Alfatdirk And LINE-TCR TEAM`
 
