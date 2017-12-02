@@ -7,7 +7,7 @@ Cara Install Bot AlphatJS :
 ------
 - `pkg install nodejs -y`
 - `pkg install git -y`
-- `git clone https://github.com/Nadyatjia/AlphatJS`
+- `git clone https://github.com/youlove717kk/AlphatJS
 - `pkg install nano`
 - `cd AlphatJS`
 - `npm install`
